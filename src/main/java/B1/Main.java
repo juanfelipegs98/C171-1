@@ -1,6 +1,8 @@
 package B1;
 
-import java.sql.Wrapper;
+import B2.Persona;
+
+
 import java.util.Date;
 
 public class Main {
@@ -25,6 +27,6 @@ public class Main {
 
         System.out.println("" + text);
 
-
+  
     }
 }
